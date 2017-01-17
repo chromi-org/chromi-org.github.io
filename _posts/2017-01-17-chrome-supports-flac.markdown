@@ -10,4 +10,4 @@ tags: [Chrome]
 
 这样的话，以后遇到 .flac 媒体文件，而当前系统上又没有 .flac 播放器，直接拖拽 .flac 到 Google Chrome 就行了。
 
-![Chrome supports FLAC]({{site.baseurl}}/../images/google-chrome-supports-flac.png)
+![Chrome supports FLAC]({{site.baseurl}}/images/google-chrome-supports-flac.png)
